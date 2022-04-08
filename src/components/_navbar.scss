@@ -1,0 +1,13 @@
+.navbar {
+  background-color: darkgray;
+  color: red;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem calc((100vw - 1000px) / 2);
+  z-index: 107;
+
+  a{
+    margin-right: 15px;
+  }
+};
